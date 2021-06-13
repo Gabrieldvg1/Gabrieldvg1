@@ -2,7 +2,7 @@
 - 👀 I’m interested in building web applications
 - 🌱 I’m currently learning .NET Core
 - 💞️ I’m looking to collaborate on cool stuff
-- 📫 How to reach me ...
+- 📫 How to reach me gabrieldvg1@gmail.com
 
 <!---
 Gabrieldvg1/Gabrieldvg1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
