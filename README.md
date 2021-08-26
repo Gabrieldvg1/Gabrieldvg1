@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabrieldvg1
 - 👀 I’m interested in building web applications
-- 🌱 I’m currently learning .NET Core
+- 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me gabrieldvg1@gmail.com
 
